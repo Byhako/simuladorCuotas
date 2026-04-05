@@ -1,6 +1,6 @@
 # Simulador de cuotas en React
 
-![Simulador de cuotas](screenshot.png)
+![Simulador de cuotas](./screenShot.png)
 
 ## Descripción
 
